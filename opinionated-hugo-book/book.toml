@@ -1,0 +1,6 @@
+[book]
+title = "Opinionated Hugo: A Guide for the Rest of Us"
+authors = ["Kenneth Bowen"]
+language = "en"
+multilingual = false
+src = "src"
