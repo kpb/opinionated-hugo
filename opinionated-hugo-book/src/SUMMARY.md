@@ -1,8 +1,8 @@
-# Summary
+# Opinionated Hugo Summary
 
 [Introduction](./introduction.md)
 
-# Prerequisites
+# Getting Started
 
 - [Installation](./installation.md)
 
