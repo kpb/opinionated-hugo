@@ -1,6 +1,6 @@
 # Installation
 
-[Hugo][hugo]has excellent [installation instructions][hugo-install] for your platform. I use Linux and find it easiest
+[Hugo][hugo] has excellent [installation instructions][hugo-install] for your platform. I use Linux and find it easiest
 to download the [latest release][hugo-release] directly from [Github][github].
 
 Whatever method you use, you should be able to run the `hugo` command:
