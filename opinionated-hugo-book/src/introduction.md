@@ -6,12 +6,13 @@ leads you through installing [Hugo][hugo] and creating a blog oriented site with
 publishing your content.
 
 This guide is [opinionated][opinionated] and prioritizes certain features and functionality and while ignoring others. The
-features that I think are most important for a simple, blog-oriented web site are:
+features I think are most important for a simple, blog-oriented web site are:
 
 - Homepage which includes content summaries
 - Paginated navigation
 - Page tags with automatically generated tag index pages
 - RSS/Atom feed
+- Theme in its own directory separate from content
 
 This guide will show you how to incrementally build all of this functionality with [Hugo][hugo] and provide a companion
 repository with working source code.
