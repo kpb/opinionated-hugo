@@ -6,4 +6,5 @@ multilingual = false
 src = "src"
 
 [output.html]
+smart-punctuation = true
 git-repository-url = "https://github.com/kpb/opinionated-hugo"
