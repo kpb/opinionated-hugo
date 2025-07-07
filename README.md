@@ -14,7 +14,7 @@ This guide is written using [mdBook][mdbook] and the book source lives in the `o
 build the book with:
 
 ```bash
-    $ mdbook build opinionated-hugo-book/
+mdbook build opinionated-hugo-book/
 ```
 
 And read the book by opening `opinionated-hugo-book/opiniated-hugo-book/index.html` in a browser.
@@ -22,7 +22,7 @@ And read the book by opening `opinionated-hugo-book/opiniated-hugo-book/index.ht
 You can also use [mdBook][mdbook] to serve up the book and open it in your default browser.
 
 ```bash
-$ mdbook serve opinionated-hugo-book/ --open
+mdbook serve opinionated-hugo-book/ --open
 ```
 
 ### Docker
@@ -39,7 +39,7 @@ docker build -t mdbook .
 Serve the image using the mdBook image.
 
 ```bash
-$ docker run --rm -v "$PWD"/opinionated-hugo-book:/home/mdbook/book -p 3000:3000 --init mdbook serve -n 0.0.0.0
+docker run --rm -v "$PWD"/opinionated-hugo-book:/home/mdbook/book -p 3000:3000 --init mdbook serve -n 0.0.0.0
 ```
 
 <!-- ref links -->
