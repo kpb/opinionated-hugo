@@ -1,7 +1,7 @@
 # Opinionated Hugo: A Guide for the Rest of Us
 
-[Hugo][hugo] is a fast, open-source static web site generator. It's very flexible and has a lot of documentation, but
-it's not always easy to figure out how create a simple site. This simple step-by-step guide leads you through installing
+[Hugo][hugo] is a fast, open-source, static web site generator. It's very flexible and has thorough documentation, but
+it's not always easy to figure out how create a basic site. This simple step-by-step guide leads you through installing
 [Hugo][hugo] and creating a blog oriented site with most of the basic features for publishing your content.
 
 ## Read the Book
