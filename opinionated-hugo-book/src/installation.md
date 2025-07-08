@@ -1,16 +1,17 @@
 # Installation
 
 [Hugo][hugo] has excellent [installation instructions][hugo-install] for your platform. I use Linux and find it easiest
-to download the [latest release][hugo-release] directly from [Github][github].
+to download prebuilt binaries from the [GitHub][github] [latest release][hugo-release] page. I recommend installing the so-called
+_extended version_.
 
 Whatever method you use, you should be able to run the `hugo` command:
 
 ```bash
 $ hugo version
-hugo v0.120.4-f11bca5fec2ebb3a02727fb2a5cfb08da96fd9df linux/amd64 BuildDate=2023-11-08T11:18:07Z VendorInfo=gohugoio
+hugo v0.147.9-29bdbde19c288d190e889294a862103c6efb70bf+extended linux/amd64 BuildDate=2025-06-23T08:22:20Z VendorInfo=gohugoio
 ```
 
-Note: file paths and commands are shown using Linux format `/`, so modify for Windows if needed `\`.
+_Note_: file paths and commands are shown using Linux format `/`, modify for Windows if needed `\`.
 
 <!-- ref links -->
 [github]: https://github.com "Github"
