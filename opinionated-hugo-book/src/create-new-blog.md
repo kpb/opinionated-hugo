@@ -24,7 +24,7 @@ $ tree
   └── themes
 ```
 You _could_ place all your templates in the `layout` directory, but I think it's better to generate a new theme in the
-_theme_ directory. It keeps the content and the style separate and you could then version the theme in it's on Git repo.
+`theme` directory. This keeps the content and the style separate and you can version the theme in its own Git repo.
 
 ```bash
 $ hugo new theme opinionated-theme
